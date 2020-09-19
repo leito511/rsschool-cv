@@ -20,7 +20,7 @@ Translator | bachelor's degree
 
 **SKILLS**
 
-Java, Javascript
+Java, Javascript, MySQL
 
 **EMPLOYMENT HISTORY**
 
